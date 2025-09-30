@@ -62,7 +62,7 @@ then open in your browser
 ---
 
 # 📸 Screenshot
-![App Screenshot](App.png)
+![App Screenshot](./App.png)
 
 # 📚 References
 
